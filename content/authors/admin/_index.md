@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Thijs Aalders, elektronicameester
 
 # Is this the primary user of the site?
 superuser: true
@@ -14,11 +14,11 @@ status:
 
 # Organizations/Affiliations
 #organizations:
-#- name: 腾讯
+#- name: 
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Wat jouw elektronicawensen ook zijn, groot en of juist heel klein. Op elk digitaal en technisch terrein, kan ik je ongetwijfeld van dienst zijn.
 
 #interests:
 #- Artificial Intelligence
@@ -44,7 +44,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: 'mailto:aalders.maartje@gmail.com' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
@@ -63,11 +63,13 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: ""
+#email: "aalders.maartje@gmail.com"
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Het begon niet pas gisteren, het zat er al vroeg in, Als klein jochie had Thijs het al naar zijn zin. Geen blokkendoos of rammelaar waar hij mee speelde, Maar computers en schermen, dat was wat hem nooit verveelde.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+De hobby werd serieus, een studie volgde snel, Elektrotechniek, ja, dat leek hem wel. Maar tussen de colleges en het vele studeren, Leerde hij iets dat je niet uit boeken kunt leren. Dat gepriegel met solderen, dat programmeren op de rit... Thijs zag in: dat is niet waar mijn échte kracht zit.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+Nee, liever kijkt hij vanaf een hoger niveau, Naar de wensen, de markt, en de hardware-flow. Hij bouwt voor zijn vrienden de allerdikste pc, En neemt oude onderdelen voor een prikkie weer mee. Hij kent de prijzen, de trends en de laatste stand, De beste deals van heel Nederland.
+
+Soms duiken er AirPods op, op magische wijze, Die hij dan weer verkoopt voor de scherpste prijzen. Mini-computers, telefoons, wat je ook zoekt, Bij Thijs is succes alvast ingeboekt. Nog even die studie, het diploma op zak, Maar als De Electronicameester zit hij al strak in het pak.
