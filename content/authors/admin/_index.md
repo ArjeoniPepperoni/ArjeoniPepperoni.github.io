@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Thijs Aalders, elektronicameester
+title: Thijs Aalders, Elektronicameester
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ⚡
 
 # Organizations/Affiliations
 #organizations:
@@ -66,10 +66,28 @@ social:
 #email: "aalders.maartje@gmail.com"
 ---
 
-Het begon niet pas gisteren, het zat er al vroeg in, Als klein jochie had Thijs het al naar zijn zin. Geen blokkendoos of rammelaar waar hij mee speelde, Maar computers en schermen, dat was wat hem nooit verveelde.
+De Sint zat te denken: wat is nu het plan? 
+Want wat geef je een handelaar die alles al vindt, 
+Nog voordat het überhaupt opkomt bij Sint? 
+Met jouw neus voor business en hardware-talenten, 
+Koop je zelf de cadeaus wel, voor gunstige centen.
 
-De hobby werd serieus, een studie volgde snel, Elektrotechniek, ja, dat leek hem wel. Maar tussen de colleges en het vele studeren, Leerde hij iets dat je niet uit boeken kunt leren. Dat gepriegel met solderen, dat programmeren op de rit... Thijs zag in: dat is niet waar mijn échte kracht zit.
+Het begon niet pas gisteren, het zat er al vroeg in, Als klein jochie had Thijs het al naar zijn zin. 
+Geen blokkendoos of rammelaar waar hij mee speelde, Maar computers en schermen was het, dat hij zich niet verveelde.
 
-Nee, liever kijkt hij vanaf een hoger niveau, Naar de wensen, de markt, en de hardware-flow. Hij bouwt voor zijn vrienden de allerdikste pc, En neemt oude onderdelen voor een prikkie weer mee. Hij kent de prijzen, de trends en de laatste stand, De beste deals van heel Nederland.
+De hobby werd serieus, een studie volgde snel, Elektrotechniek, ja, dat leek het hem wel. 
+Maar tussen de colleges en het nodige studeren, 
+Leerde hij iets dat je niet uit boeken kunt leren. 
+Dat gepriegel met solderen, dat programmeren op de rit... 
+Thijs zag in: dat is niet waar mijn échte kracht zit.
 
-Soms duiken er AirPods op, op magische wijze, Die hij dan weer verkoopt voor de scherpste prijzen. Mini-computers, telefoons, wat je ook zoekt, Bij Thijs is succes alvast ingeboekt. Nog even die studie, het diploma op zak, Maar als De Electronicameester zit hij al strak in het pak.
+Nee, liever kijkt hij vanaf een hoger niveau, 
+Naar de wensen, de markt, en de hardware-flow. 
+Hij bouwt voor zijn vrienden de allerdikste pc, 
+En neemt oude onderdelen voor een prikkie weer mee. Hij kent de prijzen, de trends en de laatste stand, 
+De beste deals van heel Nederland.
+
+Soms duiken er AirPods op, op magische wijze, 
+Die hij dan weer verkoopt voor de scherpste prijzen. Mini-computers, telefoons, wat je ook zoekt, 
+Bij Thijs is succes alvast ingeboekt. 
+Nog even die studie, het diploma op zak, Maar als Electronicameester zit hij al strak in het pak.
