@@ -10,6 +10,11 @@ type: "page"
 
 <div style="text-align: center;">
 
+The Sint usually rhymes in his own native Dutch,<br>
+But for Orit, that wouldn’t clear up very much.<br>
+So to make sure she captures the essence and view,<br>
+I'm switching to English, especially for you.<br>
+<br>
 You build custom PCs with the perfect specs,<br>
 Saving your friends from writing huge checks.<br>
 From the fastest GPU to the quietest fan,<br>
@@ -28,7 +33,7 @@ But a unique treasure from a faraway land.<br>
 For your best friend Alon, you cross the map,<br>
 Bridging the distance and the digital gap.<br>
 Heading to Israel, though times are intense,<br>
-To be at his wedding makes perfect sense.<br>
+To be at his wedding, that makes perfect sense.<br>
 <br>
 And even your home base is a unique design,<br>
 Living with Maartje, that big sister of thine.<br>
