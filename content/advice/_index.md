@@ -3,7 +3,7 @@ title: "Advice"
 type: "page"
 ---
 
-![Banner](/media/advicebanner.jpg)
+<img src="/media/advicebanner.jpg" alt="Banner" style="width:100%;">
 
 
 Sinterklaas is here with cheer,  
