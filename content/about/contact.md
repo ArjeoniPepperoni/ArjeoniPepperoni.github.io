@@ -23,6 +23,7 @@ content:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
+      name: "general contact
       captcha: true
 
 design:
