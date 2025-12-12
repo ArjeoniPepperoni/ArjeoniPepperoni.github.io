@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Wat jouw elektronicawensen ook zijn, groot en of juist heel klein. Op elk digitaal en technisch terrein, kan ik je ongetwijfeld van dienst zijn.
+bio: Wat jouw elektronicawensen ook zijn, groot en complex of juist heel klein. Op elk digitaal en technisch terrein, kan ik je ongetwijfeld van dienst zijn.
 
 #interests:
 #- Artificial Intelligence
@@ -66,9 +66,9 @@ social:
 #email: "aalders.maartje@gmail.com"
 ---
 
-De Sint zat te denken: wat is nu het plan? 
+De Sint dacht weer eens: wat is nu het plan?
 Want wat geef je een handelaar die alles al vindt, 
-Nog voordat het überhaupt opkomt bij Sint? 
+Nog voordat het überhaupt opkomt bij die oude Sint? 
 Met jouw neus voor business en hardware-talenten, 
 Koop je zelf de cadeaus wel, voor gunstige centen.
 
@@ -85,9 +85,9 @@ Nee, liever kijkt hij vanaf een hoger niveau,
 Naar de wensen, de markt, en de hardware-flow. 
 Hij bouwt voor zijn vrienden de allerdikste pc, 
 En neemt oude onderdelen voor een prikkie weer mee. Hij kent de prijzen, de trends en de laatste stand, 
-De beste deals van heel Nederland.
+en zo scoort hij beste deals van heel Nederland.
 
-Soms duiken er AirPods op, op magische wijze, 
+Soms duiken er AirPods op, op magische wijzen, 
 Die hij dan weer verkoopt voor de scherpste prijzen. Mini-computers, telefoons, wat je ook zoekt, 
 Bij Thijs is succes alvast ingeboekt. 
-Nog even die studie, het diploma op zak, Maar als Electronicameester zit hij al strak in het pak.
+Nog even die studie, het diploma op zak, maar als Electronicameester zit hij al strak in het pak.

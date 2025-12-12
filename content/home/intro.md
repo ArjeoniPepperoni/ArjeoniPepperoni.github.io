@@ -20,6 +20,6 @@ author: admin
 
 Wat jouw elektronicawensen ook zijn, groot en of juist heel klein. Op elk digitaal en technisch terrein, kan ik je ongetwijfeld van dienst zijn.
 
-Wil je meer weten wacht maar niet, maar check mijn CV dan subiet
+Wil je meer weten wacht maar niet, maar check mijn [CV](/about/) dan subiet!
 
-Check out my [resumé](/about/) and portfolio below 😍
+Kijk vervolgens maar verder naar de onderstaande diensten, 
