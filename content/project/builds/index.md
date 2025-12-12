@@ -1,5 +1,5 @@
 ---
-title: Custom builds
+title: Custom Builds
 summary: Write about your project here...
 tags:
   - builds

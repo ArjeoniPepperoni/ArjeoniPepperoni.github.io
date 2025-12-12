@@ -18,8 +18,9 @@ author: admin
 #  css_class: fullscreen
 ---
 
-Wat jouw elektronicawensen ook zijn, groot en of juist heel klein. Op elk digitaal en technisch terrein, kan ik je ongetwijfeld van dienst zijn.
+Wat jouw elektronicawensen ook zijn, groot en complex of juist heel klein. Op elk digitaal en technisch terrein, kan ik je ongetwijfeld van dienst zijn.
 
 Wil je meer weten wacht maar niet, maar check mijn [CV](/about/) dan subiet!
 
-Kijk vervolgens maar verder naar de onderstaande diensten, 
+Voor de beste diensten, kant en klaar,<br>
+bekijk je de onderstaande opties maar:
