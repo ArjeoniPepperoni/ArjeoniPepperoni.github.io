@@ -1,8 +1,8 @@
 ---
-title: Advice
+title: Procurement & Sales
 summary: Write about your project here...
 tags:
-  - NLP
-date: 2022-01-01
+  - trading
+date: 2022-12-13
 external_link: https://arjeonipepperoni.github.io/advice/
 ---

@@ -1,11 +1,10 @@
 ---
-title: "Sinterklaas Surprise"
+title: "Advice"
 type: "page"
 ---
 
-![Banner](media/banner.jpg)
+![Banner](media/advicebanner.jpg)
 
-## The Poem
 
 Sinterklaas is here with cheer,  
 Bringing gifts and fun this year.  

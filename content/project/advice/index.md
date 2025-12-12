@@ -1,8 +1,8 @@
 ---
-title: Procurement & Sales
+title: Advice
 summary: Write about your project here...
 tags:
-  - ML
-date: 2022-01-01
+  - advice
+date: 2022-12-13
 external_link: https://arjeonipepperoni.github.io/advice/
 ---
