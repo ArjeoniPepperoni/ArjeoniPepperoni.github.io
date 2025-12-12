@@ -10,3 +10,13 @@ main:
   - name: Resumé
     url: about/
     weight: 20
+  - name: Custom builds
+    url: builds/
+    weight: 30
+  - name: Advice
+    url: advice/
+    weight: 40
+  - name: Procurement & Sales
+    url: trading/
+    weight: 50
+
