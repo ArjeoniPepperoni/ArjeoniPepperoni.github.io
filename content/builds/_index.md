@@ -1,28 +1,18 @@
 ---
-title: "Custom Builds"
+title: "" 
 type: "page"
-sections:
-
-  - block: hero
-    content:
-      title: "Welcome to My Custom Builds"
-      text: "Here’s a little explanation of what these builds are about."
-    design:
-      background:
-        image: "media/banner.jpg"  # replace with your banner image
-        parallax: true
-      spacing:
-        padding: ["150px", "0", "150px", "0"]
-
-  - block: markdown
-    content:
-      title: "The Poem"
-      text: |
-        Roses are red,  
-        Violets are blue,  
-        This page has poems,  
-        Just for you!
-    design:
-      spacing:
-        padding: ["50px", "0", "50px", "0"]
 ---
+
+
+<img src="/media/buildsbanner.jpg" alt="Banner" style="width:100%;">
+
+<h1 style="text-align: center;">Custom Builds</h1>
+
+<div style="text-align: center;">
+
+Heb je vragen over een chip of een kaart?<br>
+Of weten wat die oude MacBook nog is waard?<br>
+Ik kijk naar de markt en scan elk terrein,<br>
+Zodat mijn advies voor jou goud kan zijn.
+
+</div>

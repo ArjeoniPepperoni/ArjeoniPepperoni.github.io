@@ -1,6 +1,18 @@
 ---
-title: "My Cool Page"
-date: 2025-07-02
-draft: false
+title: "" 
+type: "page"
 ---
-Welcome to my page. Try not to break anything.
+
+
+<img src="/media/tradingbanner.jpg" alt="Banner" style="width:100%;">
+
+<h1 style="text-align: center;">Procurement & Sales</h1>
+
+<div style="text-align: center;">
+
+Heb je vragen over een chip of een kaart?<br>
+Of weten wat die oude MacBook nog is waard?<br>
+Ik kijk naar de markt en scan elk terrein,<br>
+Zodat mijn advies voor jou goud kan zijn.
+
+</div>
