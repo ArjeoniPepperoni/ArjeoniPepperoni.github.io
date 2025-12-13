@@ -45,12 +45,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:aalders.maartje@gmail.com' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/wowchemy
+    link: https://www.linkedin.com/in/thijs-aalders/
   - icon: instagram
     icon_pack: fab
-    link: https://instagram.com/geocushen
+    link: https://instagram.com/thijssyaalders
 # Uncomment below for Github link
 #- icon: github
 #  icon_pack: fab
