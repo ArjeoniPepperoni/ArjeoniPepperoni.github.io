@@ -4,5 +4,5 @@ summary: Ik scan elke prijs en ik ken ook de markt, zodat ik de allerbeste deals
 tags:
   - trading
 date: 2025-12-12
-external_link: https://arjeonipepperoni.github.io/advice/
+external_link: https://arjeonipepperoni.github.io/trading/
 ---
