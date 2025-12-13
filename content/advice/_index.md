@@ -25,6 +25,11 @@ To tell them exactly which button makes fizz.<br>
 They build on your knowledge, you help them along,<br>
 With advice on the hardware that never goes wrong.<br>
 <br>
+It’s not just family who hears your voice,<br>
+The Hogeschool Utrecht made a similar choice.<br>
+In the Institute Council you take your seat,<br>
+Because your valued views are hard to beat.<br>
+<br>
 Yet Sint has a comment, a small critique,<br>
 Call me old-fashioned, or maybe antique.<br>
 But in my time, deep wisdom was shared with a cheer,<br>
