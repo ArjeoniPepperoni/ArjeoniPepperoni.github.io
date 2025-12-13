@@ -41,7 +41,6 @@ But please shut of your screen, the waiting is passed,<br>
 Your "Tweakers" package is ready to open at last.<br>
 <br>
 
-<p><strong>Your Alcoholic Socialist Saint</strong><br>
-&<br>
-<strong>Webdesign Piet</strong></p>
+<p><strong>Your Alcoholic Socialist Saint<br>
+& Webdesign Piet</strong></p>
 </div>
