@@ -6,7 +6,7 @@ type: "page"
 
 <img src="/media/buildsbanner.jpg" alt="Banner" style="width:100%;">
 
-<h1 style="text-align: center;">Custom Builds and a Custom Life</h1>
+<h1 style="text-align: center;">Custom Builds</h1>
 
 <div style="text-align: center;">
 
