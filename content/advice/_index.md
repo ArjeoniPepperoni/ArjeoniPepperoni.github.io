@@ -6,7 +6,7 @@ type: "page"
 
 <img src="/media/advicebanner.jpg" alt="Banner" style="width:100%;">
 
-<h1 style="text-align: center;">Professioneel Advies</h1>
+<h1 style="text-align: center;">Professional Advice</h1>
 
 <div style="text-align: center;">
 
